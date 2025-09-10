@@ -1,4 +1,4 @@
-# 📊 Social Media Analytics – SQL Project
+# 📊 Social Media Analytics 
 
 A MySQL-based backend system for tracking social media engagement
 (posts, likes, comments). Built to demonstrate database design, views,
